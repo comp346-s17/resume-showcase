@@ -1,0 +1,38 @@
+body
+{
+background-color: #d1d1d1;
+background-image: url(http://more-sky.com/data/out/8/IMG_260459.jpg);
+}
+{
+font-family:"Helvetica";
+font-size:30px;
+}
+img {
+	resize: both;
+	height: 500px;
+	width: 200x;
+}
+body,h1,h2,h3,h4,h5 {
+	font-family: "Helvetica";
+	text-align: center;
+}
+h1, h2, h3 {
+	justify-content: center;
+	line-height: 2.0;
+}
+body, html {
+    color: #777;
+    line-height: 1.8;
+}
+p {
+	color: black;
+	font-family: "Times New Roman";
+}
+ul li {
+	text-shadow: 2px 2px #ffffff;
+	height: 50px;
+}
+Title {
+  padding: 5px;
+  border: 1px solid black;
+}

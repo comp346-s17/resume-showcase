@@ -1,0 +1,34 @@
+
+
+div:not(img){
+	margin-left: 100px;
+	padding-left: 10em;
+
+
+	
+}
+
+
+
+img{
+	float: left;
+	padding-right: 5em;
+	
+}
+
+
+
+
+
+
+#resume h1{
+	text-align: center;
+}
+
+#resume h2{
+	text-align: center;
+}
+
+#resume h3{
+	text-align: left;
+}

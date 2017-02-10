@@ -1,0 +1,45 @@
+img {
+    border-radius:8px;
+    display: inline-block;
+    width: 200px;
+    height: 250px;
+
+}
+
+body{
+    font-family: "Arial";
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: right;
+    top: 220px;
+    left: 50%;
+    position: absolute;
+    font-size: 2em;
+    margin: 0;
+}
+
+h2{
+    text-decoration: underline;
+    font-size: 1.2em;
+    margin:0.5px;
+    border-color: darkcyan;
+    border-width: 1pt;
+    border-style: dashed;
+
+}
+
+h3{
+    font-size: 1em;
+    margin-bottom: 0.2px;
+}
+
+p{
+    font-style: italic;
+    margin:0;
+}
+
+ul{
+    margin:0;
+}

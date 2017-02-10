@@ -1,0 +1,20 @@
+h1 {
+	color: green;
+	font-family: cursive, Helvetica;
+	font-size: 50px;
+	text-shadow: 3px 3px 5px blue;
+}
+h2 {
+	color: purple;
+	font-size: 30px;
+}
+li {
+	background-color: yellow;
+}
+
+h3{
+	width: 70%;
+	color: green;
+	background-color: magenta;
+	margin: 30px;
+}

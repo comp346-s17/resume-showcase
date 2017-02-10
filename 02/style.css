@@ -1,0 +1,47 @@
+html {
+	background-color:  	#B0C4DE;
+	text-align: justify;
+    text-justify: inter-word;
+}	
+
+body {
+	padding: 10px;
+	background-color: #ddd;
+	border-radius: 15px
+}
+
+img {
+	height: 250px;
+	border: 2px solid #ddd;
+	border-radius: 15px;
+	padding: 3px;
+	float: left;
+	margin: 10px
+	
+}
+
+p {
+	padding-right: 100px
+}	
+
+
+
+p ~ h2{
+	display:inline-block;
+	width: 100%
+	
+}	
+
+h3 {
+	font-size:95%;
+	padding: 10px
+}
+
+h3 ~ p {
+	padding-left: 15px
+}
+
+ul {
+	padding-left: 10%;
+	padding-right: 100px;
+}	

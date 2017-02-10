@@ -1,0 +1,49 @@
+img {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+  height: auto;
+}
+
+h1 {
+  text-align: center;
+  word-spacing: 30px;
+  font-family: monospace;
+  background-color: gold;
+}
+
+h2 {
+  text-align: center;
+  font-family: monospace;
+}
+
+h3 {
+  text-align: center;
+  font-style: oblique;
+  font-family: serif;
+}
+
+li {
+  list-style-type: lower-roman;
+  list-style-position: outside;
+  font-family: fantasy;
+
+}
+
+p {
+  font-family: fantasy;
+}
+
+h3 + p,ul {
+  cursor: pointer;
+  opacity: .70;
+}
+
+h2 + p {
+  cursor: pointer;
+  opacity: .75;
+}
+
+* {
+  background-color: beige;
+}

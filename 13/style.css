@@ -1,0 +1,45 @@
+* {
+    /* border: 1px solid red;  */
+    text-align: center;
+}
+
+p {
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+    color: #0044FF
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+
+h1 {
+    font-size: 300%;
+    font-family: "Brush Script MT", cursive;
+    margin-top: 15px;
+    color: red;
+}
+
+h2 {
+    font-family: Papyrus, fantasy;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: green;
+}
+
+h3 {
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+    color: orange;
+}
+
+ul {
+    list-style-type: lower-greek;
+    list-style-position: inside;
+    color: purple;
+}

@@ -1,0 +1,53 @@
+body {
+    background-color: floralwhite;
+    
+}
+
+img {
+    display: block;
+    margin: auto;
+    border: 10px;
+    border-style: ridge;
+    border-color: cadetblue
+}
+
+#resume {
+    margin: 30px;
+    color: #1d2f30;
+    font-style: oblique;
+    position: absolute;
+    width: inherit;
+    align-content: center
+}
+
+#resume h1{
+    text-shadow: 3px 3px floralwhite;
+    padding: 20px;
+    background-color: antiquewhite;
+    text-align: center;
+    border: 10px;
+    border-style: ridge;
+    border-color: cadetblue
+}
+
+#resume h2{
+    text-shadow: 3px 3px floralwhite;
+    padding: 20px;
+    width: 50%;
+    background-color:#afcecf;
+}
+
+#resume h3{
+    padding: 20px;
+    background-color: #eff5f5;
+}
+
+#resume p{
+    padding: 15px;
+    margin: 40px;
+}
+
+ul{
+    margin: 40px
+}
+
